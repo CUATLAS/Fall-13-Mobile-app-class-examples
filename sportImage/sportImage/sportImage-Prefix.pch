@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'helloname' target in the 'helloname' project
+// Prefix header for all source files of the 'sportImage' target in the 'sportImage' project
 //
 
 #import <Availability.h>

@@ -1,8 +1,8 @@
 //
 //  MADAppDelegate.h
-//  helloname
+//  sportImage
 //
-//  Created by Aileen Pierce on 9/1/13.
+//  Created by Aileen Pierce on 9/5/13.
 //  Copyright (c) 2013 Aileen Pierce. All rights reserved.
 //
 

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>helloname.xcscheme</key>
+		<key>sportImage.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>752D125317D4297300F8A711</key>
+		<key>75B05AD317D94DB400A7572E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

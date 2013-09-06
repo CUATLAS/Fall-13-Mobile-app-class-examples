@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "752D125317D4297300F8A711"
-               BuildableName = "helloname.app"
-               BlueprintName = "helloname"
-               ReferencedContainer = "container:helloname.xcodeproj">
+               BlueprintIdentifier = "75B05AD317D94DB400A7572E"
+               BuildableName = "sportImage.app"
+               BlueprintName = "sportImage"
+               ReferencedContainer = "container:sportImage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "752D125317D4297300F8A711"
-            BuildableName = "helloname.app"
-            BlueprintName = "helloname"
-            ReferencedContainer = "container:helloname.xcodeproj">
+            BlueprintIdentifier = "75B05AD317D94DB400A7572E"
+            BuildableName = "sportImage.app"
+            BlueprintName = "sportImage"
+            ReferencedContainer = "container:sportImage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "752D125317D4297300F8A711"
-            BuildableName = "helloname.app"
-            BlueprintName = "helloname"
-            ReferencedContainer = "container:helloname.xcodeproj">
+            BlueprintIdentifier = "75B05AD317D94DB400A7572E"
+            BuildableName = "sportImage.app"
+            BlueprintName = "sportImage"
+            ReferencedContainer = "container:sportImage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "752D125317D4297300F8A711"
-            BuildableName = "helloname.app"
-            BlueprintName = "helloname"
-            ReferencedContainer = "container:helloname.xcodeproj">
+            BlueprintIdentifier = "75B05AD317D94DB400A7572E"
+            BuildableName = "sportImage.app"
+            BlueprintName = "sportImage"
+            ReferencedContainer = "container:sportImage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
